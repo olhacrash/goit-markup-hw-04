@@ -204,7 +204,7 @@ ul {
 
 .button {
     padding: 10px 32px;
-    border-color: var(--accent-text-color);
+    border-color: transparent;
     border-radius: 4px;
     background-color: var(--accent-text-color);
     color: var(--title-white-color);
@@ -350,7 +350,6 @@ ul {
 }
 
 .socials-link {
-    margin-bottom: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
